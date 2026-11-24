@@ -1,0 +1,24 @@
+node_modules/
+.env
+credentials*.json
+service-account*.json
+
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+credentials*.json
+service-account*.json
+*application_default_credentials*.json
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+.config/gcloud/
+
+# Temporary files
+node_modules/
+*.bak
+*.log
+.DS_Store
