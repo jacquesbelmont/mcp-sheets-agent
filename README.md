@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # MCP Sheets Agent
 
 A custom Node.js Model Context Protocol (MCP) server
@@ -130,4 +129,3 @@ GitHub: https://github.com/jacquesbelmont
 
 Focused on AI integrations, agentic automation,
 API development and Linux/VPS infrastructure.
-EOF
